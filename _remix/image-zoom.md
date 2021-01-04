@@ -24,4 +24,4 @@ tags:
   Image Zoom</a> by despina-komo (<a href="https://codepen.io/despina-komo">@despina-komo</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script> 

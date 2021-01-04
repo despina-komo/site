@@ -19,3 +19,10 @@ tags:
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
 Άσκηση: Τροποποιήστε το παράδειγμα προσθέτοντας ένα ακόμα κελί στη φόρμα. Το νέο κελί πρέπει να έχει προεπιλεγμένη τιμή "Gender" και οι διαθέσιμες επιλογές να είναι "Male","Female". Τοποθετείστε το κελί όπου εσείς θέλετε μέσα στο υπάρχον box.
+
+<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="html,result" data-user="despina-komo" data-slug-hash="JjRvjNa" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Mouse Form">
+  <span>See the Pen <a href="https://codepen.io/despina-komo/pen/JjRvjNa">
+  Mouse Form</a> by despina-komo (<a href="https://codepen.io/despina-komo">@despina-komo</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>

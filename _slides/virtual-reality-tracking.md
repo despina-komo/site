@@ -1,5 +1,5 @@
 ---
-authos: Vasilakious
+author: Vasilakious
 layout: timeline
 title: Επαυξημένη Πραγματικότητα
 image_url: https://github.com/Vasilakious/images/blob/p2020132/oculus-quest-2-vr-headset.jpg, https://github.com/Vasilakious/images/blob/p2020132/oculus-quest-2-controller.jpg

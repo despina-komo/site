@@ -11,5 +11,3 @@ tags:
   - Κονσόλες
   - Πολυμέσα
 ---
-
-{% include_relative cs-oculus-rift-cv1.md %}

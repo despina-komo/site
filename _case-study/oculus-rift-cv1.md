@@ -14,3 +14,5 @@ gallery:
   - image_url: images/oculus-rift-cv1.jpg
     caption: "Το πρώτο Headset της εταιρίας Oculus."
 ---
+  
+{% include_relative cs-oculus-rift-cv1.md %}

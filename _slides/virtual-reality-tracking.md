@@ -13,4 +13,5 @@ events:
   - power-glove
   - kinect
   - Oculus Quest 2
+  - Emotion Tracking
 ---

@@ -21,3 +21,4 @@ tags:
 ---
 
 {% include_relative bio-palmer-luckey.md %}
+{% include gallery %}

@@ -2,6 +2,10 @@
 	path = images
 	url = https://github.com/Vasilakious/images.git
 	branch = p2020132
+[submodule "_gallery"]
+	path = _gallery
+	url = https://github.com/Vasilakious/_gallery.git
+	branch = p2020132
 [submodule "_includes/extras"]
 	path = _includes/extras
 	url = https://github.com/pibook/extras.git
@@ -18,6 +22,3 @@
 	path = _bibliography
 	url = https://github.com/pibook/bibliography.git
 	branch = master
-[submodule "_gallery"]
-	path = _gallery
-	url = https://github.com/Vasilakious/_gallery.git

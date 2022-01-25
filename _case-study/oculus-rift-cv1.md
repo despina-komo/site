@@ -16,3 +16,4 @@ gallery:
 ---
   
 {% include_relative cs-oculus-rift-cv1.md %}
+{% include gallery %}

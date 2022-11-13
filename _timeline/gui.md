@@ -11,4 +11,5 @@ events:
   - windows10
   - qnx
   - OS2
+  - amiga-workbench
 ---

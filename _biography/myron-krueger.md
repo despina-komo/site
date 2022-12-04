@@ -10,6 +10,7 @@ categories:
 tags:
   - Myron Krueger
   - Virtual Reality
+  - Mixed Reality
 ---
 
 {% include bio-krueger.md %}

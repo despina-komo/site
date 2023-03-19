@@ -1,7 +1,7 @@
 ---
 layout: slides
 title: Εισαγωγή
-image_url: /images/software.png
+image_url: /images/arduino-ide.png
 caption: Διαφάνειες για την Εισαγωγή 
 slides:
   - github-profile
@@ -9,5 +9,6 @@ slides:
   - classroom
   - exams
   - hackathon
+  - social-media-diy
 ---
 
